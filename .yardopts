@@ -1,0 +1,6 @@
+
+--default-return void
+
+{lib}/**/*.rb
+-
+README-ru.md

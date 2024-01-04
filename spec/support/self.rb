@@ -1,0 +1,2 @@
+
+require "attr_magic"
